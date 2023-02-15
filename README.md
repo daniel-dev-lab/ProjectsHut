@@ -25,8 +25,8 @@ ProjectsHut is an innovative platform that allows users to publish their project
 
 ## 🫂 Contributors
 
-<a href="https://github.com/priyankarpal/ProjectsHut/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=priyankarpal/ProjectsHut" />
+<a href="https://github.com/daniel-dev-lab/ProjectsHut/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=daniel-dev-lab/ProjectsHut" />
 </a>
 
 ## 🛡️ License
